@@ -62,7 +62,7 @@
 					"\n",
 					"def hello():\n",
 					"    \"\"\" Hello World \"\"\"\n",
-					"     return 'Hello World!'\n",
+					"return 'Hello World!'\n",
 					"\n",
 					"hello()"
 				],
